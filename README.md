@@ -1,10 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ibukun Olaifa</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
-<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibukun-brain" alt="ibukun-brain" /></a> </p>
+- 🔭 I’m currently working on **Airbnb clone**
+
+- 🌱 I’m currently learning **django rest framework**
+
+- 👯 I’m looking to collaborate on **Github octernship**
+
+- 👨‍💻 All of my projects are available at [working on it](working on it)
+
+- 💬 Ask me about **python, django, html, css, javascript**
+
+- 📫 How to reach me **ibukunolaifa@gmail.com**
+
+- 📄 Know about my experiences [working on it](working on it)
+
+- ⚡ Fun fact **I love listening to music**
+
+- <img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="300" align="right">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibk_the_brain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibk_the_brain" height="30" width="40" /></a>
