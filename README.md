@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibukun-brain" alt="ibukun-brain" /></a> </p>
-
+<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibk_the_brain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibk_the_brain" height="30" width="40" /></a>
