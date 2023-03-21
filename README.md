@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/78442733/226585940-fceeeda0-c9b4-4ed4-9787-4b395ee5d6f6.png))
+![MasterHead](https://user-images.githubusercontent.com/78442733/226585940-fceeeda0-c9b4-4ed4-9787-4b395ee5d6f6.png)
 
 <h1 align="center">Hi 👋, I'm Ibukun Olaifa</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
