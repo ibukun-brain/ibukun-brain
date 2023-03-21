@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Github octernship**
 
-- 👨‍💻 All of my projects are available at [working on it](working on it)
+- 👨‍💻 All of my projects are available at [working on it]("#")
 
 - 💬 Ask me about **python, django, html, css, javascript**
 
 - 📫 How to reach me **ibukunolaifa@gmail.com**
 
-- 📄 Know about my experiences [working on it](working on it)
+- 📄 Know about my experiences [working on it]("#")
 
 - ⚡ Fun fact **I love listening to music**
 
