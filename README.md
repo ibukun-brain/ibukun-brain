@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibukun-brain" alt="ibukun-brain" /></a> </p>
+
+<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="300" align="right">
+
 - 🔭 I’m currently working on **Airbnb clone**
 
 - 🌱 I’m currently learning **django rest framework**
@@ -19,8 +22,6 @@
 - 📄 Know about my experiences [working on it](working on it)
 
 - ⚡ Fun fact **I love listening to music**
-
-- <img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="300" align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
