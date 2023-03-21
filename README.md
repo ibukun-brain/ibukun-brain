@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibukun Olaifa</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
-<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="200" align="right">
+<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
 
