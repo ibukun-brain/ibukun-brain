@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/78442733/226585940-fceeeda0-c9b4-4ed4-9787-4b395ee5d6f6.png)
 
 <h1 align="center">Hi 👋, I'm Ibukun Olaifa</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
 
@@ -9,15 +9,7 @@
 
 <img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="400" align="right">
 
-- 🔭 I’m currently working on **Airbnb clone**
-
-- 🌱 I’m currently learning **django rest framework**
-
-- 👯 I’m looking to collaborate on **Github octernship**
-
-- 👨‍💻 All of my projects are available at [working on it]("#")
-
-- 💬 Ask me about **python, django, html, css, javascript**
+- 💬 Ask me about **python, django,reactJs, reactnative, nextJS html, css, javascript**
 
 - 📫 How to reach me **ibukunolaifa@gmail.com**
 
