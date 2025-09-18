@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Ibukun Olaifa  
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat)
 
-🚀 **Results-driven Software Engineer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My toolbox includes **Django, Django Rest Framework (DRF), ReactJS, and WebRTC**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
+🚀 **Results-driven Full Stack Developer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My toolbox includes **Django, Django Rest Framework (DRF), ReactJS, and WebRTC**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
 
 💡 I enjoy turning complex problems into elegant solutions — whether it’s:  
 - Building **FinTech applications** that demand precision and security  
@@ -45,14 +45,14 @@ I see AI not just as a tool, but as a **creative partner** in solving problems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>
-  <img src="https://www.svgrepo.com/show/373945/websocket.svg" width="40" height="40" alt="WebSocket"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="40" height="40" alt="AI Tools"/>
 </p>
 
@@ -61,9 +61,8 @@ I see AI not just as a tool, but as a **creative partner** in solving problems, 
 ### 📝 Articles & Writings  
 Here are some of my thoughts and contributions to the tech world:  
 
-- [Article Title 1](#)  
-- [Article Title 2](#)  
-- [Article Title 3](#)  
+<!-- [Article Title 1](#) -->  
+
 
 *(More coming soon — stay tuned!)*  
 
@@ -72,10 +71,10 @@ Here are some of my thoughts and contributions to the tech world:
 ### 📫 Let’s Connect  
 I’m always open to exciting collaborations, innovative projects, and discussions about **tech that shapes the future**.  
 
-- 🌐 Portfolio: [your-portfolio-link](#)  
-- 💼 LinkedIn: [your-linkedin-link](#)  
+- 🌐 Portfolio: [your-portfolio-link]("https://ibukun-olaifa.vercel.app/")  
+- 💼 LinkedIn: [your-linkedin-link]("https://www.linkedin.com/in/ibukun-olaifa/")  
 - 🐦 Twitter/X: [your-twitter-link](#)  
-- 📧 Email: [your-email-link](#)  
+- 📧 Email: [your-email-link]("ibukunolaifa@gmail.com")  
 
 ---
 
