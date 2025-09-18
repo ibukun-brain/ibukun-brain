@@ -72,8 +72,8 @@ Here are some of my thoughts and contributions to the tech world:
 ### 📫 Let’s Connect  
 I’m always open to exciting collaborations, innovative projects, and discussions about **tech that shapes the future**.  
 
-- 🌐 Portfolio: ["https://ibukun-olaifa.vercel.app/"]("https://ibukun-olaifa.vercel.app/")  
-- 💼 LinkedIn: ["https://www.linkedin.com/in/ibukun-olaifa/"]("https://www.linkedin.com/in/ibukun-olaifa/")  
+- 🌐 Portfolio: [https://ibukun-olaifa.vercel.app/](https://ibukun-olaifa.vercel.app/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ibukun-olaifa/](https://www.linkedin.com/in/ibukun-olaifa/)  
 <!--- 🐦 Twitter/X: [your-twitter-link](#) -->  
 - 📧 Email: [ibukunolaifa@gmail.com]("ibukunolaifa@gmail.com")  
 
