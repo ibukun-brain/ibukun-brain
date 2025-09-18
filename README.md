@@ -31,7 +31,7 @@ As an **AI Enthusiast**, I’m passionate about exploring how **artificial intel
 - 🧠 Experimenting with **machine learning models** for predictive analytics  
 - 🔍 Using **AI-powered automation** to improve productivity  
 - 💬 Exploring **NLP and conversational AI** to build smarter interactions  
-- 🛠️ Integrating **AI tools** into real-world applications for enhanced decision-making  
+- 🛠️ Integrating **AI tools (RAG Bot, AI agents, RAG agents)** into real-world applications for enhanced decision-making  
 
 I see AI not just as a tool, but as a **creative partner** in solving problems, unlocking insights, and pushing the boundaries of what’s possible.  
 
@@ -44,7 +44,7 @@ I see AI not just as a tool, but as a **creative partner** in solving problems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" alt="ExpressJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
