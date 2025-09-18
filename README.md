@@ -1,25 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ibukun Olaifa</h1>
-<h3 align="center">A fullstack developer</h3>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Ibukun Olaifa  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20views&color=0e75b6&style=flat" alt="ibukun-brain" /> </p>
+🚀 **Results-driven Full Stack Developer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My toolbox includes **Django, Django Rest Framework (DRF), ReactJS, and WebRTC**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibukun-brain" alt="ibukun-brain" /></a> </p>
+💡 I enjoy turning complex problems into elegant solutions — whether it’s:  
+- Building **FinTech applications** that demand precision and security  
+- Developing **real-time, WebRTC-powered platforms** for seamless communication  
+- Automating workflows with **Selenium & BeautifulSoup**  
+- Crunching data and optimizing performance using **NumPy & Pandas**  
 
-<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=%2bEELJ6KgPy2Qcg&pid=ImgRaw&r=0" width="400" align="right">
+✨ Beyond coding, I care deeply about **UI/UX principles**, making sure every project not only works flawlessly but also **delights the user**.  
 
-- 💬 Ask me about **python, django,reactJs, reactnative, nextJS html, css, javascript**
+🔒 Security. ⚡ Performance. 🎨 Usability. — I bring all three together in every solution I build.  
 
-- 📫 How to reach me **ibukunolaifa@gmail.com**
+---
 
-- 📄 Know about my experiences [working on it]("#")
+### 🌍 What I’m Passionate About  
+- Scaling systems for **high-performance web apps**  
+- Driving **real-time interactions** with WebRTC  
+- Exploring the crossroads of **data science and web development**  
+- Collaborating with teams to deliver **impact-driven solutions**  
 
-- ⚡ Fun fact **I love listening to music**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ibk_the_brain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibk_the_brain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibukun-olaifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibukun-olaifa" height="30" width="40" /></a>
-</p>
+### 📫 Let’s Connect  
+I’m always open to exciting collaborations, innovative projects, and discussions about **tech that shapes the future**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+👉 [Portfolio/Website (if you have one)]  
+👉 [LinkedIn/Email/Other links]  
+
+---
+
+⚡ *"I don’t just write code. I design experiences, solve problems, and build solutions that last."*  
