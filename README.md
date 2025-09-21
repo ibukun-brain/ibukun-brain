@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20Views&color=0e75b6&style=flat)
 
-🚀 **Results-driven Full Stack Developer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My favourite toolbox includes **Django, Django Rest Framework (DRF), ReactJS**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
+🚀 **Results-driven Software Engineer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My favourite toolbox includes **Django, Django Rest Framework (DRF), ReactJS**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
 
 💡 I enjoy turning complex problems into elegant solutions — whether it’s:  
 - Building **FinTech applications** that demand precision and security  
