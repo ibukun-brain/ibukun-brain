@@ -5,7 +5,7 @@
 🚀 **A Results-driven Software Engineer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My favourite toolbox includes **Django, Django Rest Framework (DRF), ReactJS**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
 
 💡 I enjoy turning complex problems into elegant solutions — whether it’s:  
-- Building **FinTech applications** that demand precision and security  
+- Building **Scalable and optimized applications** that demand precision and security  
 - Developing **real-time, WebRTC-powered platforms** for seamless communication  
 - Automating workflows with **Selenium & BeautifulSoup**  
 - Crunching data and optimizing performance using **NumPy & Pandas**  
