@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibukun-brain&label=Profile%20Views&color=0e75b6&style=flat)
 
-🚀 **A Results-driven Software Engineer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My favourite toolbox includes **Django, Django Rest Framework (DRF), ReactJS**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
+🚀 **A Results-driven Software Engineer** with a passion for crafting **scalable web applications** and delivering smooth user experiences. My favourite toolbox includes **Django, FastAPI (Backend Development), ReactJS, NestJS(Frontend Development), React Native (Mobile App Development)**, backed by strong expertise in **CI/CD pipelines** for efficient and reliable deployments.  
 
-💡 I enjoy turning complex problems into elegant solutions — whether it’s:  
+💡 I enjoy turning complex problems into elegant solutions, whether it’s:  
 - Building **Scalable and optimized applications** that demand precision and security  
 - Developing **real-time, WebRTC-powered platforms** for seamless communication  
 - Automating workflows with **Selenium & BeautifulSoup**  
@@ -12,7 +12,7 @@
 
 ✨ Beyond coding, I care deeply about **UI/UX principles**, making sure every project not only works flawlessly but also **delights the user**.  
 
-🔒 Security. ⚡ Performance. 🎨 Usability. — I bring all three together in every solution I build.  
+🔒 Security. ⚡ Performance. 🎨 Usability, I bring all three together in every solution I build.  
 
 ---
 
